@@ -6,6 +6,10 @@
 The RJ Sports Shop Dashboard is an interactive Power BI dashboard designed to analyze sales performance of a sports shop across brands, branches, payment modes, sport types, and time (months).
 This dashboard helps business owners and managers make data-driven decisions by tracking revenue, quantity sold, discounts, and customer payment behavior.
 
+----
+
+<img width="1624" height="900" alt="Image" src="https://github.com/user-attachments/assets/4805bb2f-2075-476e-a040-aa2f991039ef" />
+
 -----
 
 🎯 Objectives
